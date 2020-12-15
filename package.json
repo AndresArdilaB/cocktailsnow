@@ -9,10 +9,10 @@
     "test:e2e:dev": "cypress open --project ./test",
     "test:watch": "jest --watch",
     "test:update": "jest --updateSnapshot ./src",
-    "build": "ENV=production PORT=4000 webpack-cli --config webpack.config.js",
+    "build": "ENV=production PORT=3000 webpack-cli --config webpack.config.js",
     "build:test": "echo 'En caso que fuera nesesario generar un build distinto para testing'",
-    "start:dev": "nodemon src/server/index",
-    "start": "ENV=production PORT=4000 node src/server/index",
+    "start:dev": "nodemon PORT=4000 src/server/index",
+    "start": "ENV=production PORT=3000 node src/server/index",
     "lint": "eslint src/frontend/ --ext .js --ext .jsx --fix"
   },
   "keywords": [],
