@@ -1,0 +1,9 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Footer Snapshot Testing the footer UI component 1`] = `
+<footer
+  className="footer"
+>
+  From Andres Ardila for Platzi - 2020
+</footer>
+`;

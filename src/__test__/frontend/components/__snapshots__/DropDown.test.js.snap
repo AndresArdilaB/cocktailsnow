@@ -1,0 +1,24 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`DropDown Snapshot Testing render component UI 1`] = `
+<div
+  className="container"
+>
+  <select
+    className="select"
+    onChange={[Function]}
+  >
+    <option
+      value=""
+    >
+      Categories
+    </option>
+    <option
+      id="test"
+      value="test"
+    >
+      Test
+    </option>
+  </select>
+</div>
+`;

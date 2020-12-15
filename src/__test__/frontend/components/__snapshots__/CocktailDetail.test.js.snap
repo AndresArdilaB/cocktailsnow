@@ -1,0 +1,82 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`CocktailDetail Snapshot Testing render component UI 1`] = `
+<section
+  className="detail"
+>
+  <div
+    className="title"
+  >
+    Selected Cocktel
+  </div>
+  <div
+    className="detail-container"
+  >
+    <div
+      className="media"
+    >
+      <img
+        alt="Cocktail"
+        src="https://www.thecocktaildb.com/images/media/drink/qywpvt1454512546.jpg"
+      />
+    </div>
+    <div
+      className="text"
+    >
+      <div
+        className="propierty"
+        id="Lunch Box"
+      >
+        <h3>
+          Name:
+        </h3>
+        <span>
+          Lunch Box
+        </span>
+      </div>
+      <div
+        className="propierty"
+      >
+        <h3>
+          Glass:
+        </h3>
+        <span>
+          Pint glass
+        </span>
+      </div>
+      <div
+        className="propierty"
+      >
+        <h3>
+          Category:
+        </h3>
+        <p>
+          Beer
+        </p>
+      </div>
+      <div>
+        <h3>
+          Ingredients:
+        </h3>
+        <span>
+          Beer
+        </span>
+        <span>
+          , Amaretto
+        </span>
+        <span>
+          , Orange juice
+        </span>
+      </div>
+      <div>
+        <h3>
+          Instructions:
+        </h3>
+        <p>
+          Fill a pint glass almost full with beer. Then fill the rest with orange juice (careful not to fill it to the top). Then take the shot of Amaretto and drop it in.
+        </p>
+      </div>
+    </div>
+  </div>
+</section>
+`;

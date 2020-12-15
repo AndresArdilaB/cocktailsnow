@@ -1,0 +1,9 @@
+{
+  "category": "ordinary_drink",
+  "glass": "old-fashioned_glass",
+  "ingredient": "light_rum",
+  "type": "non_alcoholic",
+  "findCocktail": "Alice",
+  "orderVerificator": "Cuba Libre",
+  "detailVerificator": "Collins Glass"
+}

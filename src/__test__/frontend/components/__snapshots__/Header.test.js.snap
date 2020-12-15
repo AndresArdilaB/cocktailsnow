@@ -1,0 +1,15 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Header Snapshot Testing the Header UI component 1`] = `
+<header
+  className="header"
+>
+  <a
+    className="link"
+    href="/"
+    onClick={[Function]}
+  >
+    Home
+  </a>
+</header>
+`;

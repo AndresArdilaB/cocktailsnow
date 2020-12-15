@@ -1,0 +1,97 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Filters Snapshot Testing render component UI 1`] = `
+<section
+  className="filters__main"
+>
+  <div
+    className="filters__title"
+  >
+    Find your cocktail by some of this parameters
+  </div>
+  <section
+    className="filters"
+  >
+    <div
+      className="container"
+    >
+      <select
+        className="select"
+        onChange={[Function]}
+      >
+        <option
+          value=""
+        >
+          Categories
+        </option>
+        <option
+          id="test"
+          value="test"
+        >
+          Test
+        </option>
+      </select>
+    </div>
+    <div
+      className="container"
+    >
+      <select
+        className="select"
+        onChange={[Function]}
+      >
+        <option
+          value=""
+        >
+          Glasses
+        </option>
+        <option
+          id="test"
+          value="test"
+        >
+          Test
+        </option>
+      </select>
+    </div>
+    <div
+      className="container"
+    >
+      <select
+        className="select"
+        onChange={[Function]}
+      >
+        <option
+          value=""
+        >
+          Ingredients
+        </option>
+        <option
+          id="test"
+          value="test"
+        >
+          Test
+        </option>
+      </select>
+    </div>
+    <div
+      className="container"
+    >
+      <select
+        className="select"
+        onChange={[Function]}
+      >
+        <option
+          value=""
+        >
+          Type
+        </option>
+        <option
+          id="test"
+          value="test"
+        >
+          Test
+        </option>
+      </select>
+    </div>
+  </section>
+</section>
+`;

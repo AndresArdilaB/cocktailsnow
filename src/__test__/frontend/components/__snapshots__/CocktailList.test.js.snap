@@ -1,0 +1,62 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`CockailList Snapshot Testiong render component UI 1`] = `
+<section
+  className="container_list"
+>
+  <div
+    className="cocktails_list"
+  >
+    <div
+      id="14029"
+    >
+      <div
+        className="container_list_item"
+      >
+        <a
+          className="link"
+          href="/cocktail/14029"
+          onClick={[Function]}
+        >
+          <div
+            className="media_list_item"
+          >
+            <img
+              alt="The Cocktel"
+              src="https://www.thecocktaildb.com/images/media/drink/qyyvtu1468878544.jpg"
+            />
+          </div>
+          <div>
+            '57 Chevy with a White License Plate
+          </div>
+        </a>
+      </div>
+    </div>
+    <div
+      id="178318"
+    >
+      <div
+        className="container_list_item"
+      >
+        <a
+          className="link"
+          href="/cocktail/178318"
+          onClick={[Function]}
+        >
+          <div
+            className="media_list_item"
+          >
+            <img
+              alt="The Cocktel"
+              src="https://www.thecocktaildb.com/images/media/drink/i9suxb1582474926.jpg"
+            />
+          </div>
+          <div>
+            747 Drink
+          </div>
+        </a>
+      </div>
+    </div>
+  </div>
+</section>
+`;

@@ -1,0 +1,22 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`CockailListItem Snapshot Testiong render component UI 1`] = `
+<div
+  className="container_list_item"
+>
+  <a
+    className="link"
+    href="/cocktail/undefined"
+    onClick={[Function]}
+  >
+    <div
+      className="media_list_item"
+    >
+      <img
+        alt="The Cocktel"
+      />
+    </div>
+    <div />
+  </a>
+</div>
+`;

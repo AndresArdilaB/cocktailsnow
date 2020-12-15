@@ -1,0 +1,24 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Layout Snapshot Testing the layout UI component 1`] = `
+<div
+  className="App"
+>
+  <header
+    className="header"
+  >
+    <a
+      className="link"
+      href="/"
+      onClick={[Function]}
+    >
+      Home
+    </a>
+  </header>
+  <footer
+    className="footer"
+  >
+    From Andres Ardila for Platzi - 2020
+  </footer>
+</div>
+`;

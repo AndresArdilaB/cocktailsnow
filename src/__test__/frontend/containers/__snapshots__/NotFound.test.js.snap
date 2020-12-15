@@ -1,0 +1,12 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`NotFound Snapshot Testing the NotFound UI component 1`] = `
+Array [
+  <h1>
+    No Encontrado
+  </h1>,
+  <h2>
+    Regresa al Home
+  </h2>,
+]
+`;
